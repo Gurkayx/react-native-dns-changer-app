@@ -8,8 +8,8 @@ Expo ile react native kullanılarak geliştirilmiş bir dns değiştirme uygulam
   <img src="https://github.com/Gurkayx/react-native-dns-changer-app/blob/main/appscreenshot/ss2.png" alt="ss2" width="200"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss3.png" alt="ss3" width="200"/>
-  <img src="https://github.com/Gurkayx/react-native-task-management-app/blob/main/screenshots/ss4.png" alt="ss4" width="200"/>
+  <img src="https://github.com/Gurkayx/react-native-dns-changer-app/blob/main/appscreenshot/ss3.png" alt="ss3" width="200"/>
+  <img src="https://github.com/Gurkayx/react-native-dns-changer-app/blob/main/appscreenshot/ss4.png" alt="ss4" width="200"/>
 </p>
 
 
